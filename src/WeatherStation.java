@@ -1,3 +1,10 @@
+/**
+ * @author Trevor Hartman
+ * @author MK Ripley
+ * @since Version 1.0
+ * 4/13/2023
+ */
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
